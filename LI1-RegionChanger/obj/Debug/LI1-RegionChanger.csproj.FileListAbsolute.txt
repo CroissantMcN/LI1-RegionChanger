@@ -1,0 +1,10 @@
+C:\Users\segas\source\repos\LI1-RegionChanger\LI1-RegionChanger\bin\Debug\LI1-RegionChanger.exe.config
+C:\Users\segas\source\repos\LI1-RegionChanger\LI1-RegionChanger\bin\Debug\LI1-RegionChanger.exe
+C:\Users\segas\source\repos\LI1-RegionChanger\LI1-RegionChanger\bin\Debug\LI1-RegionChanger.pdb
+C:\Users\segas\source\repos\LI1-RegionChanger\LI1-RegionChanger\obj\Debug\LI1-RegionChanger.csprojAssemblyReference.cache
+C:\Users\segas\source\repos\LI1-RegionChanger\LI1-RegionChanger\obj\Debug\LI1_RegionChanger.Properties.Resources.resources
+C:\Users\segas\source\repos\LI1-RegionChanger\LI1-RegionChanger\obj\Debug\LI1-RegionChanger.csproj.GenerateResource.cache
+C:\Users\segas\source\repos\LI1-RegionChanger\LI1-RegionChanger\obj\Debug\LI1-RegionChanger.csproj.CoreCompileInputs.cache
+C:\Users\segas\source\repos\LI1-RegionChanger\LI1-RegionChanger\obj\Debug\LI1-RegionChanger.exe
+C:\Users\segas\source\repos\LI1-RegionChanger\LI1-RegionChanger\obj\Debug\LI1-RegionChanger.pdb
+C:\Users\segas\source\repos\LI1-RegionChanger\LI1-RegionChanger\obj\Debug\LI1_RegionChanger.LIRChange.resources
